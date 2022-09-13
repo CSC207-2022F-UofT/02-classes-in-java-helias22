@@ -122,7 +122,6 @@ public class Silly implements Comparable<Silly> {
     @Override
     public String toString() {
         return this.name;
-        //return name;
     }
 
     /**
